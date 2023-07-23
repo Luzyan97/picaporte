@@ -1,6 +1,1 @@
-echo "# picaporte" >> ST_Semanal
-git init
-git add TFM_SerieTemporal_Semanal
-git commit -m "HTML publish"
-git remote add origin file:///C:/Users/usuario/Downloads/TFM_SerieTemporal_Semanal.html
-git push origin master
+
